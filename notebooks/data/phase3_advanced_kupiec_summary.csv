@@ -1,0 +1,5 @@
+,VaR Estimate,Breaches,Expected Breaches,Kupiec Result
+GARCH11_VaR_99,-2.35%,73,42.1,FAIL
+GJR_GARCH_VaR_99,-2.28%,74,42.1,FAIL
+Copula_VaR_99,-2.08%,119,42.1,FAIL
+EVT_VaR_99,-3.14%,36,42.1,PASS

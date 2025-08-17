@@ -1,0 +1,5 @@
+,Breaches (Last 250d),Basel Zone,Capital Multiplier,Capital Impact
+GARCH11_VaR_99,8,Yellow,3.75,25% above minimum
+GJR_GARCH_VaR_99,8,Yellow,3.75,25% above minimum
+Copula_VaR_99,4,Green,3.0,0% above minimum
+EVT_VaR_99,0,Green,3.0,0% above minimum
