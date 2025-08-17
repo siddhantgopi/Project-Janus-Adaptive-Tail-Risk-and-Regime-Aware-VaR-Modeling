@@ -1,0 +1,5 @@
+,Breaches (Last 250d),Basel Zone,Capital Multiplier,Capital Impact
+HistVaR_99,7,Yellow,3.65,22% above minimum
+ParamVaR_Norm_99,8,Yellow,3.75,25% above minimum
+ParamVaR_T_99,8,Yellow,3.75,25% above minimum
+MCVaR_99,9,Yellow,3.85,28% above minimum
