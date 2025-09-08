@@ -1,0 +1,13 @@
+,Breach Analysis,Kupiec's POF Test,Christoffersen's Test,Basel III Analysis
+Total Trading Days,4210,,,
+Expected Breaches (1%),42.10,,,
+Actual Breaches,42,,,
+Failure Rate,1.00%,,,
+LR Statistic,,0.00,3.21,
+P-Value,,0.9876,0.0731,
+Result @ 5%,,PASS,PASS (Independent),
+---,,---,---,
+Breaches (Last 250d),,,,3
+Basel Zone,,,,Green
+Capital Multiplier,,,,3.00
+Capital Impact,,,,0% above minimum
