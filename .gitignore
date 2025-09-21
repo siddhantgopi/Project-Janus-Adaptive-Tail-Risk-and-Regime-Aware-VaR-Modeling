@@ -1,0 +1,15 @@
+# Ignore data
+data/raw/
+data/processed/
+
+# Ignore model files
+*.pkl
+*.npy
+*.csv
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+notebooks/clean1.csv
